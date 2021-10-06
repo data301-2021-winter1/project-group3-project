@@ -13,16 +13,18 @@ Kevin: I am excited to work with this dataset because there are many attributes 
 
 Riley:
 
-Anna:
+Anna: I am interested in this dataset for various reasons, but I am going to use this dataset to determine if there is a correlation betwen family makeup and earning, such as marital status and family relationship. Also would be interested to note the variations in family makeup patterns within different countires, and if the same patterns lead to the same overall result.
 
 ## Describe your dataset in about 150-200 words
 
-{Add your stuff here}
+
+The datasets intention is to indicate what factors may or may not lead to a person making more than 
+$50 000 a year. It includes many information factors for each person; age, race, country of origin, sex, occupation, etc.
 
 ## Team Members
 
 - Person 1: one sentence about you!
-- Person 2: one sentence about you!
+- Person 2: I am a third year management student with an interest in finance, and extracurricularly I love to spend my time doing things outdoors!
 - Person 3 (Kevin): I'm a fourth year Management student specializing in accounting; outside of school I like to play hockey and golf and enjoy skiing.
 
 ## Images
