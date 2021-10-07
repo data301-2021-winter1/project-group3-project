@@ -11,9 +11,9 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 Kevin: I am excited to work with this dataset because there are many attributes that contribute to an individual's yearly earnings and I believe that this dataset may be able to point to the ones that are most important.  As a student working towards finishing my degree, I am more specifically interested in the education attribute and how it affects income compared to a less-educated adult.  I am also interested in the comparison between countries, and how developed countries compare to less-developed countries.  Research questions relating to these attributes are of interest to me. After the completion of this project, I hope to have a better understanding of these attributes and how they affect an individual earning greater than or less than $50,000.
 
-Riley: 
-
 Anna: I am interested in this dataset for various reasons, but I am going to use this dataset to determine if there is a correlation betwen family makeup and earning, such as marital status and family relationship. Also would be interested to note the variations in family makeup patterns within different countires, and if the same patterns lead to the same overall result.
+
+Riley: I am interested in the data for the same reason's as stated prior. I am also very interested in the distribution of pay between people which share the same attributes
 
 ## Describe your dataset in about 150-200 words
 
