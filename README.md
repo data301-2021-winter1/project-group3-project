@@ -21,8 +21,8 @@ The information within the dataset was extracted from the 1994 census by Barry B
 
 ## Team Members
 
-- Person 1: I am a fourth year computer science major. I enjoy working out and learning!
-- Person 2: I am a third year management student with an interest in finance, and extracurricularly I love to spend my time doing things outdoors!
+- Person 1 (Riley): I am a fourth year computer science major. I enjoy working out and learning!
+- Person 2 (Anna): I am a third year management student with an interest in finance, and extracurricularly I love to spend my time doing things outdoors!
 - Person 3 (Kevin): I'm a fourth year Management student specializing in accounting; outside of school I like to play hockey and golf and enjoy skiing.
 
 ## Images
