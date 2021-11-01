@@ -5,30 +5,24 @@ class pipeline:
     @staticmethod
     def load_data():
         
+        # read in data
         df =  pd.read_csv("../data/raw/adult.data")
+        # name columns properly 
         df.columns =['age',  'workclass','fnlwgt', 'education','education-num','marital-status','occupation', 'relationship', 
                        'race','sex', 'capital-gain', 'capital-loss' ,  'hours-per-week','native-country', 'salary']
-        # drop useless row
+        
+        # factorize columns 
         df['salary'] = pd.factorize(df['salary'])[0]
         df['sex'] = pd.factorize(df['sex'])[0]
         
-        ### add argreget columns
+        ### drop n/a columns, reset index, and drop unused columns 
         df2 = (
         df
         .dropna()
         .reset_index(drop=True)
+        .drop(['fnlwgt', 'age', 'education', 'education-num','relationship', 'capital-gain', 'capital-loss', 'hours-per-week', 
+               'native-country', 'workclass',   'marital-status'], axis=1)
         )
-        del df2["fnlwgt"]
-        del df2["age"]
-        del df2["education"]
-        del df2["education-num"]
-        del df2["relationship"]
-        del df2["capital-gain"]
-        del df2["capital-loss"]
-        del df2["hours-per-week"]
-        del df2["native-country"]
-        del df2["workclass"]
-        del df2["marital-status"]
         
         return df2
     
