@@ -14,7 +14,9 @@ def process_data(csv_file):
 
 def useless_col(csv_file):
     df = pd.read_csv("../data/raw/adult.data")
-    df_clean = df.
+    df_clean = df.dropna(axis=0)
+    return df_clean
+
 def f_salary(csv_data):
     df = pd.read_csv("../data/raw/adult.data")
     df1 = (df['salary'] = pd.factorize(df['salary'])[0])
