@@ -1,0 +1,11 @@
+,occupation-race-sex,number-of-people-over-50k,number-of-people-under-50k,percentage
+3,"(' ?', 0, ' Other')",0,7,0.0
+6,"(' ?', 1, ' Asian-Pac-Islander')",0,33,0.0
+13,"(' Adm-clerical', 0, ' Other')",0,7,0.0
+20,"(' Armed-Forces', 0, ' Amer-Indian-Eskimo')",0,1,0.0
+21,"(' Armed-Forces', 0, ' Black')",0,1,0.0
+28,"(' Craft-repair', 1, ' Amer-Indian-Eskimo')",0,2,0.0
+29,"(' Craft-repair', 1, ' Asian-Pac-Islander')",0,6,0.0
+31,"(' Craft-repair', 1, ' Other')",0,4,0.0
+33,"(' Exec-managerial', 0, ' Amer-Indian-Eskimo')",0,11,0.0
+41,"(' Exec-managerial', 1, ' Other')",0,4,0.0

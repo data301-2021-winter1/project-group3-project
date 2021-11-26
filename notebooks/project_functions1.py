@@ -26,4 +26,6 @@ class pipeline:
         
         return df2
     
+    def save_data(df, str):
+        df.to_csv(f"../data/processed/{str}.csv")
     
